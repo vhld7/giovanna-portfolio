@@ -16,7 +16,7 @@
   --sans: "Inter", -apple-system, "Segoe UI", Roboto, sans-serif;
   --body-font: "Montserrat", var(--sans);
   --maxw: 1240px;
-  --header-h: 60px;
+  --header-h: 48px;
 }
 
 * {
@@ -64,7 +64,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 22px 32px;
+  padding: 14px 32px;
   font-family: var(--sans);
   font-size: 12px;
   letter-spacing: 1.5px;
@@ -398,11 +398,11 @@ img {
   }
 
   .site-header {
-    padding: 18px 20px;
+    padding: 12px 20px;
   }
 
   :root {
-    --header-h: 52px;
+    --header-h: 42px;
   }
 
   .container {
