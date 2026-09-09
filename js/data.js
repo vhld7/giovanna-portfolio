@@ -12,8 +12,6 @@ const SITE_DATA = {
   ],
   email: "giildauzacker@gmail.com",
   linkedin: "https://www.linkedin.com/in/giovanna-dauzacker-6503871b5/",
-  quote: "“Graphic design will save the world right after rock and roll does.” — David Carson",
-
   reportagens: [
     {
       title: "Canonização de Carlo Acutis",
