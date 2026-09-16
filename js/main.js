@@ -55,9 +55,13 @@ function renderGrid(containerId, items) {
 document.addEventListener("DOMContentLoaded", () => {
   renderGrid("reportagens-grid", SITE_DATA.reportagens);
   renderGrid("entradas-grid", SITE_DATA.entradas);
+  renderGrid("apresentacoes-grid", SITE_DATA.apresentacoes);
 
   const heroTitle = document.getElementById("hero-title");
   const heroTagline = document.getElementById("hero-tagline");
   if (heroTitle) heroTitle.textContent = SITE_DATA.name;
   if (heroTagline) heroTagline.textContent = SITE_DATA.heroTagline;
+
+  const quote = document.getElementById("site-quote");
+  if (quote) quote.textContent = SITE_DATA.quote;
 });

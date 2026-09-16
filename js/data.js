@@ -12,6 +12,8 @@ const SITE_DATA = {
   ],
   email: "giildauzacker@gmail.com",
   linkedin: "https://www.linkedin.com/in/giovanna-dauzacker-6503871b5/",
+  quote: "“Graphic design will save the world right after rock and roll does.” — David Carson",
+
   reportagens: [
     {
       title: "Canonização de Carlo Acutis",
@@ -86,5 +88,13 @@ const SITE_DATA = {
       youtubeId: "OtZ5gvqbtag",
       desc: "Acompanhamos o início da implementação deste novo modelo de mobilidade urbana. O diferencial foi encontrar essa personagem quando já estávamos prontos para entrar ao vivo. O improviso e a conversa solta ajudaram a passar a informação com qualidade.",
     },
+  ],
+
+  apresentacoes: [
+      {
+        title: "Apresentação do MS1",
+        youtubeId: "035wpziXW14",
+        desc: "Acompanhamos o início da implementação deste novo modelo de mobilidade urbana. O diferencial foi encontrar essa personagem quando já estávamos prontos para entrar ao vivo. O improviso e a conversa solta ajudaram a passar a informação com qualidade.",
+      },
   ],
 };
