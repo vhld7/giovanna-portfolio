@@ -94,7 +94,7 @@ const SITE_DATA = {
       {
         title: "Apresentação do MS1",
         youtubeId: "035wpziXW14",
-        desc: "Acompanhamos o início da implementação deste novo modelo de mobilidade urbana. O diferencial foi encontrar essa personagem quando já estávamos prontos para entrar ao vivo. O improviso e a conversa solta ajudaram a passar a informação com qualidade.",
+        desc: "Na bancada, apresentando a 1ª edição do MSTV ao vivo, com os principais assuntos do dia em Mato Grosso do Sul.",
       },
   ],
 };
