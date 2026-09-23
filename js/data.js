@@ -91,7 +91,7 @@ const SITE_DATA = {
 
   apresentacoes: [
       {
-        title: "Apresentação do MS1 - ",
+        title: "Apresentação do MS1 - 14/09/26",
         youtubeId: "035wpziXW14",
         desc: "Na bancada, apresentando a 1ª edição do MSTV ao vivo, com os principais assuntos do dia em Mato Grosso do Sul.",
       },
